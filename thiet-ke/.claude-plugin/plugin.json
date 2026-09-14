@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "thiet-ke",
+  "displayName": "Nhân sự Thiết kế",
+  "version": "1.0.0",
+  "description": "Vai Thiết kế trong đội nhân sự A.I — ảnh chữ để đăng theo nhận diện của bạn (đọc cấu trúc ảnh mẫu, không sao chép nhận diện), và trang giải thích bằng hình có sơ đồ cơ chế. Font tiếng Việt nhúng sẵn, không cần npm install.",
+  "author": {
+    "name": "Tô Hải Đoàn"
+  },
+  "license": "MIT",
+  "keywords": [
+    "thiet-ke",
+    "anh-quote",
+    "giai-thich",
+    "nhan-dien",
+    "second-brain",
+    "tieng-viet"
+  ]
+}

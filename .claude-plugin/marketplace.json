@@ -1,0 +1,20 @@
+{
+  "name": "nhan-su-thiet-ke",
+  "owner": {
+    "name": "Tô Hải Đoàn",
+    "url": "https://github.com/creator-ceo"
+  },
+  "metadata": {
+    "description": "Vai Thiết kế trong đội nhân sự A.I của Tô Hải Đoàn — cài rời, chạy trên bộ não thứ 2 sẵn có",
+    "version": "1.0.0",
+    "repository": "https://github.com/creator-ceo/nhan-su-thiet-ke"
+  },
+  "plugins": [
+    {
+      "name": "thiet-ke",
+      "source": "./thiet-ke",
+      "strict": false,
+      "description": "Hai lệnh: /anh-quote dựng ảnh chữ từ ảnh mẫu, màu và font theo nhận diện của bạn · /giai-thich-de-hieu biến khái niệm khó thành một trang có sơ đồ cơ chế."
+    }
+  ]
+}
